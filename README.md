@@ -2,7 +2,7 @@
 **🌟 I am a passionate Full Stack Web Developer 🌐. I love coding💻, solving challenging problems, and exploring new technologies 🚀.**
 
 
-- 🔭 I’m currently working on: [DeliveBoo](https://github.com/orsoli/deliveboo-laravel10)
+- 🔭 I’m currently working on: [Daily Trip Albania](https://github.com/orsoli/daily-trip-albania-backend)
 
 - 🌱 I’m currently learning: JavaScript, PHP, Vue.js, Laravel.
 
