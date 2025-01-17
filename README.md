@@ -2,7 +2,7 @@
 **🌟 I am a passionate Full Stack Web Developer 🌐. I love coding💻, solving challenging problems, and exploring new technologies 🚀.**
 
 
-- 🔭 I’m currently working on: [Fullstack Test Starter]([https://github.com/orsoli/daily-trip-albania-backend](https://github.com/orsoli/fullstack-test-starter))
+- 🔭 I’m currently working on: [Fullstack Test Starter](https://github.com/orsoli/fullstack-test-starter)
 
 - 🌱 I’m currently learning: JavaScript, PHP, Vue.js, Laravel.
 
